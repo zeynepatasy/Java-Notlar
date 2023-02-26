@@ -23,6 +23,7 @@ public class C01_Hastane {
 
         dok1.isim = "Burcu";
         System.out.println(dok2.isim); // null
+        System.out.println(dok1.isim);//burcu
 
         dok1.fakulte = "Tip fakultesi";
         System.out.println(dok2.fakulte); // Tip fakultesi

@@ -7,7 +7,7 @@ public class ADoktor {
     int dogumYili;
     boolean askerlikYaptıMı;
     String telNo;
-    static String fakulte;
+    static String fakulte="Tip";
 
 }
 

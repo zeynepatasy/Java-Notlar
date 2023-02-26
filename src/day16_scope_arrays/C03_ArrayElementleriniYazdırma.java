@@ -8,12 +8,13 @@ public class C03_ArrayElementleriniYazdırma {
 
         //Tüm array yazdır
 
-        System.out.println(Arrays.toString(arr)); //bu array olur
+        System.out.println(Arrays.toString(arr)); //bu array olur [3, 5, 6, 7, 8, 1, 2]
 
         //Array'in tüm elementlerini yanyana aralarında bir bosluk olacak sekilde yazdırın
 
         for (int i = 0; i <arr.length ; i++) { //<= dersek length-1
-            System.out.print(arr[i] + " "); //bu arrayin elementleri
+            System.out.print(arr[i] + " "); //bu arrayin elementleri --> 3 5 6 7 8 1 2
+          
         }
 
     }
