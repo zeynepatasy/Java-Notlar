@@ -30,8 +30,10 @@ public class C03_ArraydeİstenenElemanıBulma {
         for (int i = 0; i <arr.length ; i++) {
             if (arr[i].equals(arananEleman)){
                 sayac++;
+
             }
         }
+        System.out.println("aranan eleman: " + arananEleman );
         System.out.println(sayac);//2
     }
 }

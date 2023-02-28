@@ -1,4 +1,4 @@
-package day_01;
+package day01_datalar;
 
 public class CO2_Variables {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package day_01;
+package day01_datalar;
 
 public class datalar {
     public static void main(String[] args) {
