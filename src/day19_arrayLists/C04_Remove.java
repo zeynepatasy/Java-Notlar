@@ -16,6 +16,7 @@ public class C04_Remove {
         System.out.println(harfler.remove(2));//D sildiiği elemnti getirdi
         System.out.println(harfler);//[A, K]
 
+
         List<Integer>sayılar=new ArrayList<>();
         sayılar.add(1);
         sayılar.add(3);

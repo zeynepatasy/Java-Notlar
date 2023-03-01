@@ -16,5 +16,6 @@ public class C07_SubList {
 
         List<Integer>yeniList=sayılar.subList(2,5);
         System.out.println(yeniList); //[2, 13, 53]
+
     }
 }

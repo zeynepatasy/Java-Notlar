@@ -17,5 +17,6 @@ public class C06_getSet {
 
         //2 elemntini 12 yapın
         System.out.println(sayılar.set(2, 7)); //18 değiştirdiğini getirdi
+
     }
 }
